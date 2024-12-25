@@ -5,8 +5,6 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.emon.multibinding.paymentProcessor.PaymentProcessor
-import com.emon.multibinding.sender.NotificationSender
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 

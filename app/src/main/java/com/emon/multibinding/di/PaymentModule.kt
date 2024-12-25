@@ -1,9 +1,9 @@
 package com.emon.multibinding.di
 
-import com.emon.multibinding.paymentProcessor.GooglePayProcessor
-import com.emon.multibinding.paymentProcessor.PayPalProcessor
-import com.emon.multibinding.paymentProcessor.PaymentProcessor
-import com.emon.multibinding.paymentProcessor.StripeProcessor
+import com.emon.multibinding.GooglePayProcessor
+import com.emon.multibinding.PayPalProcessor
+import com.emon.multibinding.PaymentProcessor
+import com.emon.multibinding.StripeProcessor
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn
